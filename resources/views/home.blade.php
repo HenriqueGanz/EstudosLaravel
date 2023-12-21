@@ -26,3 +26,12 @@
         <div align="center" class="row">{{$cursos->links()}}</div>
     </div>
 @endsection
+
+
+
+
+
+
+
+
+
